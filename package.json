@@ -1,6 +1,6 @@
 {
     "name": "sqlo",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "将Microsoft SQL Server操作简单化",
     "main": "index.js",
     "scripts": {
