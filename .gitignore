@@ -7,4 +7,4 @@ package-lock.json
 *.swp
 *.sql
 .idea/
-.test/config.js
+config.js
