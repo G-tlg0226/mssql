@@ -1,14 +1,32 @@
 {
-    "name": "mssql",
+    "name": "sqlo",
     "version": "1.0.0",
-    "description": "",
+    "description": "将Microsoft SQL Server操作简单化",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
-    "author": "田路刚 <tianlugang0226@gmail.com>",
-    "license": "ISC",
+    "keywords": [
+        "SQL Server",
+        "Nodejs",
+        "MSSQL",
+        "mssql",
+        "ES6",
+        "Pool",
+        "ConnectionPool",
+        "pool",
+        "javascript",
+        "node-sqlo",
+        "sqlo",
+        "sql operation"
+    ],
+    "author": {
+        "name": "田路刚",
+        "email": "tianlugang0226@gmail.com",
+        "url": "tianlugang.win"
+    },
+    "repository": "https://github.com/G-tlg0226/mssql.git",
+    "license": "MIT",
     "dependencies": {
         "chalk": "^2.3.0",
         "debug": "^3.1.0",
