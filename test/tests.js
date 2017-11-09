@@ -1,4 +1,4 @@
-const sqlo = require( '../index.js' ),
+const sqlo = require( '../lib/operations' ),
 	options = require( './config.js' ),
 	dbo = new sqlo.Operation( options )
 

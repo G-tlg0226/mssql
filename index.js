@@ -1,7 +1,8 @@
-/*
- * @Author: road.田路刚 
- * @Date: 2017-11-04 14:53:10 
- * @Last Modified by: road.田路刚
- * @Last Modified time: 2017-11-04 14:54:29
+/**
+ * @requires generic-pool 
+ * @see https://github.com/coopernurse/node-pool
+ * @requires tedious
+ * @see http://tediousjs.github.io/tedious/parameters.html 
+ *  
  */
-exports = require( './lib/operation' )
+module.exports = require( './lib/operation' )
